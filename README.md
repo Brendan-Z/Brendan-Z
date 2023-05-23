@@ -1,5 +1,5 @@
 ### Hi there 👋  
-I am an aspiring software developer currently in my 3rd year Software Engineering at the University of Auckland.  
+I am an aspiring software developer currently in my 4th year Software Engineering at the University of Auckland.  
 
 🔭 I’m currently working on React & Typescript for an app i'm currently developing.  
 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/brendan-zhou/)
