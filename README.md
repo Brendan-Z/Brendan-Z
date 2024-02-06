@@ -1,8 +1,9 @@
 ### Hi there 👋  
-I am an aspiring software developer currently in my 4th year Software Engineering at the University of Auckland.  
+I am a high-achieving Software Developer who has just graduated in Software Engineering at the University of Auckland.  
 
-🔭 I’m currently working on React & Typescript for an app i'm currently developing.  
+🔭 I’m currently working on React & Typescript for an app I'm currently developing.  
 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/brendan-zhou/)
+🌱 Check out my portfolio to learn more about me! [Portfolio](https://main--comforting-starburst-6a04b8.netlify.app/)
 <!--
 **Brendan-Z/Brendan-Z** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
