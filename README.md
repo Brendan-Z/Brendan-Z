@@ -5,7 +5,7 @@ I am a high-achieving Software Developer who has just graduated in Software Engi
 
 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/brendan-zhou/).
 
-🌱 Check out my portfolio to learn more about me! [Portfolio](https://main--comforting-starburst-6a04b8.netlify.app/).
+🌱 Check out my portfolio to learn more about me! [Portfolio](https://bzhportfolio.netlify.app).
 <!--
 **Brendan-Z/Brendan-Z** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
